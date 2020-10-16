@@ -1,0 +1,18 @@
+P:\LeRebours\SIO2\ProjetVin\ProjetMetier\bin\Debug\netstandard2.0\ProjetMetier.deps.json
+P:\LeRebours\SIO2\ProjetVin\ProjetMetier\bin\Debug\netstandard2.0\ProjetMetier.dll
+P:\LeRebours\SIO2\ProjetVin\ProjetMetier\bin\Debug\netstandard2.0\ProjetMetier.pdb
+P:\LeRebours\SIO2\ProjetVin\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.csprojAssemblyReference.cache
+P:\LeRebours\SIO2\ProjetVin\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.AssemblyInfoInputs.cache
+P:\LeRebours\SIO2\ProjetVin\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.AssemblyInfo.cs
+P:\LeRebours\SIO2\ProjetVin\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.csproj.CoreCompileInputs.cache
+P:\LeRebours\SIO2\ProjetVin\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.dll
+P:\LeRebours\SIO2\ProjetVin\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.pdb
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.csprojAssemblyReference.cache
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.AssemblyInfo.cs
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.dll
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.pdb
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetMetier\bin\Debug\netstandard2.0\ProjetMetier.deps.json
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetMetier\bin\Debug\netstandard2.0\ProjetMetier.dll
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetMetier\bin\Debug\netstandard2.0\ProjetMetier.pdb

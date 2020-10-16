@@ -1,0 +1,36 @@
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\bin\Debug\ProjetWPF.exe.config
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\bin\Debug\ProjetWPF.exe
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\bin\Debug\ProjetWPF.pdb
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\bin\Debug\ProjetMetier.dll
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\bin\Debug\ProjetMetier.pdb
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\ProjetWPF.csprojAssemblyReference.cache
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\MainWindow.g.cs
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\App.g.cs
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.cache
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.lref
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\MainWindow.baml
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\ProjetWPF.g.resources
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\ProjetWPF.Properties.Resources.resources
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\ProjetWPF.csproj.GenerateResource.cache
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\ProjetWPF.csproj.CoreCompileInputs.cache
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\ProjetWPF.csproj.CopyComplete
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\ProjetWPF.exe
+P:\LeRebours\SIO2\ProjetVin\ProjetWPF\obj\Debug\ProjetWPF.pdb
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\bin\Debug\ProjetWPF.exe.config
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\bin\Debug\ProjetWPF.exe
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\bin\Debug\ProjetWPF.pdb
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\bin\Debug\ProjetMetier.dll
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\bin\Debug\ProjetMetier.pdb
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\ProjetWPF.csprojAssemblyReference.cache
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\MainWindow.g.cs
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\App.g.cs
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.cache
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.lref
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\MainWindow.baml
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\ProjetWPF.g.resources
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\ProjetWPF.Properties.Resources.resources
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\ProjetWPF.csproj.GenerateResource.cache
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\ProjetWPF.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\ProjetWPF.csproj.CopyComplete
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\ProjetWPF.exe
+C:\Users\emile\Desktop\Projet Vin\ProjetVin - Etudiants\ProjetWPF\obj\Debug\ProjetWPF.pdb
